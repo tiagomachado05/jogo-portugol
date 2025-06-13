@@ -4,12 +4,12 @@ programa {
 
   funcao inicio() {
     
-    inteiro decisao[50]
+    inteiro decisao[15]
     inteiro veneno
     inteiro podre
 
-    escreva("\nVoce é um aventureiro e decide ir explorar uma trilha nova pois está entediado.\nA trilha a ser feita será a trilha do Gravatá situada entre a praia da Joaquina e a praia Mole, com uma praia de dificil acesso.")
-    escreva("\nO clima ensolarado de hoje é o ideal para uma trilha, o dia está lindo! Boa sorte!\n")
+    escreva("\nVocê é um aventureiro e decide ir explorar uma trilha nova pois está entediado.\nA trilha a ser feita será a trilha do Gravatá situada entre a praia da Joaquina e a praia Mole, com uma praia de dificil acesso.")
+    escreva("\nO clima ensolarado de hoje é o ideal para uma trilha, o dia está lindo! Boa sorte AVENTUREIRO!\n")
 
 
     
